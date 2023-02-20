@@ -3,4 +3,6 @@ This is our first writing.
 
 About remote repository.
 
-Changes.
+Changes in folders.
+
+Exercises.
